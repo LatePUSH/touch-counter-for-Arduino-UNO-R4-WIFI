@@ -35,7 +35,7 @@ That's it.
 4. Upload the sketch.
 5. Touch the heart on the back of the board and watch the counter go up.
 
-## How it works
+## How it works ?
 
 1. The sketch reads the capacitive touch sensor every 20 ms.
 2. It detects the moment a finger lands on the pad (rising edge), so holding your finger down counts as a single touch.
